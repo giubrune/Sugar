@@ -10,5 +10,5 @@ INSTRUCTIONS
 * The project folder contains also the executable H1D_Sugar.exe, which executes the coupled HYDRUS-SUGAR model described in the paper.
 * To execute it, the user must set the project path in the file LEVEL_01.DIR, open the command prompt in the project folder, and type .\H1D_Sugar.exe.
 * After executing the model (besides classical hydrus output files), two further output files are produced:
-    SUGAR.OUT: Contains the time series of the stem water potential, fruit water mass, fruit dry mass, soluble sugars mass, starch mass, and the mass of ther structural compounds.
-    SUGAR_flux.out: Contains the time series of the xylem water flow, phloem water flow, fruit water transpiration, active uptake of sugars, convective sugar flow, passive diffusion fluxes of sugars, total sugar uptake fluxes, and sugar respiration fluxes
+    - SUGAR.OUT: Contains the time series of the stem water potential, fruit water mass, fruit dry mass, soluble sugars mass, starch mass, and the mass of ther structural compounds.
+    - SUGAR_flux.out: Contains the time series of the xylem water flow, phloem water flow, fruit water transpiration, active uptake of sugars, convective sugar flow, passive diffusion fluxes of sugars, total sugar uptake fluxes, and sugar respiration fluxes
