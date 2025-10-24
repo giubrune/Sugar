@@ -1,6 +1,6 @@
 This repository contains: 1) the HYDRUS models used to perform the analysis for both irrigation scenarios, 2) The python codes to perform the model calibration and uncertainty assessment, the sensitivity analysis, and plot results, 3) the chains resulting from the MCMC analysis, 4) the excel file with the measurements.
 
-INSTRUCTIONS
+# INSTRUCTIONS
 
 * The project folder and the .h1d file must share the same path.
 * Files .h1d can be open in HYDRUS-1D to explore model definition and boundary conditions, and eventually modify soil-related parameters.
